@@ -2,14 +2,41 @@
 title: Area of a Circle
 ---
 ## Area of a Circle
+---
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/mathematics/area-of-a-circle/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
+The formula to finding the area of a circle is : **A = πr²**
 
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
+###### Formula when knowing Radius
 
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+**A = πr²**
 
-#### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
+*Example*
+
+What is the area of a circle with a radius of 3m?
+
+- Area = πr²
+    - r = 3
+- π * 3²
+- 3.14 * (3 * 3)
+- **28.27m²**
+
+---
+The first formula deals with the **diamter**.
+
+###### Formula when knowing Diameter
+
+Diameter is made up of two radii (plural form of radius).
+
+*Example*
+
+What is the area of a circle with a diameter of 10m?
+
+- Area = πr²
+  - r = 10 / 2
+  - r = 5
+- π * 5²
+- 3.14 * (5 * 5)
+- **78.5**
+
 
 
